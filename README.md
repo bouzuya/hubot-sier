@@ -13,11 +13,8 @@ or
 
 ## Example
 
-    bouzuya> hubot help sier
-      hubot> hubot sier - sier
-
-    bouzuya> hubot sier
-      hubot> sier!
+    bouzuya> Excel にスクショはらなきゃ
+      hubot> それ SIer ぽいですね。
 
 ## Configuration
 
